@@ -8,6 +8,12 @@ body {
   padding-top: 20px;
 }
 
+nav {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 20px;
+}
+
 form {
   font-family: 'Montserrat', sans-serif;
   text-align: center;
